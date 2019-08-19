@@ -1,0 +1,12 @@
+C:\Dev\Application_Web_S5\Application_Web_S5\Application_Web_S5\bin\Debug\netstandard2.0\Application_Web_S5.deps.json
+C:\Dev\Application_Web_S5\Application_Web_S5\Application_Web_S5\bin\Debug\netstandard2.0\Application_Web_S5.dll
+C:\Dev\Application_Web_S5\Application_Web_S5\Application_Web_S5\bin\Debug\netstandard2.0\Application_Web_S5.pdb
+C:\Dev\Application_Web_S5\Application_Web_S5\Application_Web_S5\obj\Debug\netstandard2.0\Application_Web_S5.csprojAssemblyReference.cache
+C:\Dev\Application_Web_S5\Application_Web_S5\Application_Web_S5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Dev\Application_Web_S5\Application_Web_S5\Application_Web_S5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Dev\Application_Web_S5\Application_Web_S5\Application_Web_S5\obj\Debug\netstandard2.0\Application_Web_S5.csproj.CoreCompileInputs.cache
+C:\Dev\Application_Web_S5\Application_Web_S5\Application_Web_S5\obj\Debug\netstandard2.0\Application_Web_S5.AssemblyInfoInputs.cache
+C:\Dev\Application_Web_S5\Application_Web_S5\Application_Web_S5\obj\Debug\netstandard2.0\Application_Web_S5.AssemblyInfo.cs
+C:\Dev\Application_Web_S5\Application_Web_S5\Application_Web_S5\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Dev\Application_Web_S5\Application_Web_S5\Application_Web_S5\obj\Debug\netstandard2.0\Application_Web_S5.dll
+C:\Dev\Application_Web_S5\Application_Web_S5\Application_Web_S5\obj\Debug\netstandard2.0\Application_Web_S5.pdb
